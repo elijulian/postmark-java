@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+* removed usage of deprecated Jackson constant, replaced with the recommended alternative
+
 ## 1.11.1
 
 * small updated to http client connection settings
